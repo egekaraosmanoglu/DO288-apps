@@ -55,6 +55,10 @@
       <groupId>io.thorntail</groupId>
       <artifactId>jaxrs</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>microprofile</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
